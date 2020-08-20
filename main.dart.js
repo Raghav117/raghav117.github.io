@@ -45227,13 +45227,13 @@ o=m.Q[a]
 n=t.t
 s=M.aM(l,V.ol(T.cl(H.c([M.aM(l,U.fp(o.c,C.X,l),l,l,l,l,100,l,l,l,100),L.by(" "+o.a+" ",l,l,l,l,l,l,l,B.wQ(C.i,l,C.D),C.W,l,l),L.by(" "+m.Q[a].b+" ",l,l,l,l,l,l,l,B.cn(C.i,12,l,l),C.W,l,l)],n),C.G,C.aw),p,10,l,new X.bL(q,C.k)),l,l,l,l,r,l,l,l,s)
 if(k)r=b/5.3
-else r=d===2?b/3.5:b/2
+else r=d===2?b/3.5:b/1.5
 if(k)k=b/5.3
-else k=d===2?b/3.5:b/2
+else k=d===2?b/3.5:b/1.5
 q=K.h_(20)
 p=P.bw(204,0,0,0)
 o=m.Q[a]
-return new E.oU(s,M.aM(l,V.ol(T.cl(H.c([M.aM(l,U.fp(o.c,C.X,l),l,l,l,l,100,l,l,l,100),L.by(o.a,l,l,l,l,l,l,l,B.wQ(C.i,l,C.D),l,l,l),R.iD(!1,!0,L.by(m.Q[a].d,l,l,l,l,l,l,l,B.cn(C.aL,12,C.Z,l),C.W,l,l),l,!0,l,l,l,l,l,l,l,l,l,new F.U9(m,a),l)],n),C.G,C.aw),C.dc,10,p,new X.bL(q,C.k)),l,l,l,l,k+50,l,l,l,r),C.oq,!0,l)},
+return new E.oU(s,M.aM(l,V.ol(T.cl(H.c([M.aM(l,U.fp(o.c,C.X,l),l,l,l,l,100,l,l,l,100),L.by(o.a,l,l,l,l,l,l,l,B.wQ(C.i,l,C.D),l,l,l),R.iD(!1,!0,L.by(m.Q[a].d,l,l,l,l,l,l,l,B.cn(C.aL,12,C.Z,l),C.W,l,l),l,!0,l,l,l,l,l,l,l,l,l,new F.U9(m,a),l)],n),C.G,C.aw),C.dc,10,p,new X.bL(q,C.k)),l,l,l,l,k,l,l,l,r),C.oq,!0,l)},
 PN:function(a,b,c){var s,r,q=this,p=null,o=L.by("MY SERVICES  ...",p,p,p,p,p,p,p,B.cn(C.i,15,p,C.D),C.W,p,p),n=T.cE(p,20,p),m=U.a_R(P.d8(40,40,40,1),new S.l_(C.l,t.qU))
 if(c>1200){s=q.x
 s.toString
